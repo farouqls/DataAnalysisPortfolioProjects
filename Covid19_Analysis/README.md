@@ -16,6 +16,10 @@ SQL (Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating V
 - [SQL Data Exploration Queries](Data%20Exploration%20cov19%20project.sql)
 
 ### Dashboard
+preview
+<img width="1839" height="873" alt="covid 19 project" src="https://github.com/user-attachments/assets/c03f9081-a463-4d15-865c-9cbdc6e634f2" />
+
+
 [View Tableau Dashboard] https://public.tableau.com/views/CoviddashboardProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Key Insights
