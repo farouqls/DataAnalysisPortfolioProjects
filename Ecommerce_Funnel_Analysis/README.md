@@ -45,6 +45,10 @@ Conversion rate stayed remarkably flat (~49–50%) regardless of user engagement
 Cart abandonment (48.3%) is the single biggest funnel leak, and it appears unrelated to user engagement or discounting. This points toward **structural friction in the checkout process** — such as payment issues, unexpected shipping costs, or forced account creation — as the likely cause. Recommend instrumenting checkout-step-level events (e.g. payment page reached, shipping page reached) to pinpoint exactly where in checkout users drop off.
 
 ## Dashboard
+preview
+<img width="1848" height="830" alt="E-com Conversion Funnel" src="https://github.com/user-attachments/assets/2bad9679-57ee-43e6-a3f5-49c276d19c62" />
+
+
 📊 [View the interactive dashboard on Tableau Public] https://public.tableau.com/views/Book1_17870566566140/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
